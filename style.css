@@ -1,0 +1,43 @@
+.nav-logo {
+  padding-top: 58px;
+  padding-left: 71px;
+}
+
+body {
+  background-image: url(images/bg-desktop.svg);
+  background-color: hsl(257, 40%, 49%);
+}
+
+h1.heading {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #fff;
+}
+
+.description {
+  font-family: 'Open Sans', sans-serif;  
+  font-weight: 400;
+  color: #fff;
+}
+
+.section-1 {
+  display: flex;
+}
+
+.hero-text-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 230px;
+}
+
+.mockup {
+  padding: 100px 71px;
+  width: 638px;
+  height: 100%;
+}
+
+.register {
+  width: 188px;
+  height: 51px;
+  border-radius: 40px;
+}
